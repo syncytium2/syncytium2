@@ -61,8 +61,9 @@ Claude` trailer.
   - Authorship: rewritten per-project rather than one blanket line.
 
   DELIBERATELY NOT SAID HERE: that the no_peak port was made with Michael Johnson's
-  approval. no_peak's own docs (docs/next-steps.md §1) record that this claim has no dated
-  primary record, and its About page wording was narrowed on 2026-08-25 for that reason.
-  Repeating it here would put an unverified claim about a named person on a second public
-  surface. If a dated record ever exists, that is the moment to reconsider — not before.
+  approval. The record now exists — the email was found later the same day, 2026-08-25,
+  and next-steps.md §1 is closed — so this is no longer about the claim being unsupported.
+  It is left out because the claim belongs on no_peak's own page, where its scope is
+  spelled out (it covers porting, NOT redistributing Johnson's Fortran source). A profile
+  bullet cannot carry that caveat, and the claim without the caveat is the wrong claim.
 -->
