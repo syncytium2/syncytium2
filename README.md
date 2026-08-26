@@ -34,27 +34,35 @@ single kernel fits" rather than a plausible one.
 
 The fourth exists to hold the other three to it.
 
+### Publications
+
+[ORCID 0000-0001-7302-7528](https://orcid.org/0000-0001-7302-7528) ·
+[Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/richard.defazio.1/bibliography/public/)
+
 ### On authorship
 
-The ideas, decisions, and review in these repositories are mine; most of the code is
-Claude's (Anthropic's Claude Code). I set the problems, made the calls — including
-overriding rules the model had adopted — and merged nothing I hadn't reviewed. Agent
-commits carry a `Co-Authored-By: Claude` trailer.
+Provenance differs by project, so one line would be wrong for all four:
+
+- **colonel_kernel** and **bugarach** began as my own MATLAB code. Claude (Anthropic's
+  Claude Code) did the port, and does the coding now.
+- **no_peak** is a port of Michael L. Johnson's CLUST5 Fortran. I wrote the Igor Pro port;
+  Claude did Igor → web and Fortran → web.
+- **murderboard** is Claude's code to my design.
+
+Throughout: I set the problems, made the calls — including overriding rules the model had
+adopted — and merged nothing I hadn't reviewed. Agent commits carry a `Co-Authored-By:
+Claude` trailer.
 
 <!--
-  DRAFT — things to check or fill in before this is settled:
+  Settled 2026-08-25:
+  - Affiliation: deliberately not named. Location dropped from the site masthead too.
+  - Publications: ORCID + NCBI bibliography added above.
+  - Contact: the form on tonydefazio.com. No literal address here or there, by design.
+  - Authorship: rewritten per-project rather than one blanket line.
 
-  1. Affiliation. This says nothing about where you work. If you want the lab and the
-     university named, add a line; if you'd rather the profile stay project-only, it's
-     already correct as written.
-  2. Publications. Nothing here links to any paper. A line pointing at ORCID, Google
-     Scholar, or PubMed would be the obvious addition and would also help the sites get
-     indexed.
-  3. Contact. Deliberately omitted — tonydefazio.com carries a contact form, and the
-     address deliberately appears nowhere on that page. Putting a literal address here
-     would undo that, so if you want contact on the profile, link the form rather than
-     the address.
-  4. The "most of the code is Claude's" line is copied from the per-repo authorship notes
-     in colonel_kernel and murderboard. Check you want it at profile level too, where it
-     applies to everything rather than to one project.
+  DELIBERATELY NOT SAID HERE: that the no_peak port was made with Michael Johnson's
+  approval. no_peak's own docs (docs/next-steps.md §1) record that this claim has no dated
+  primary record, and its About page wording was narrowed on 2026-08-25 for that reason.
+  Repeating it here would put an unverified claim about a named person on a second public
+  surface. If a dated record ever exists, that is the moment to reconsider — not before.
 -->
