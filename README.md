@@ -50,8 +50,10 @@ commits carry a `Co-Authored-By: Claude` trailer.
   2. Publications. Nothing here links to any paper. A line pointing at ORCID, Google
      Scholar, or PubMed would be the obvious addition and would also help the sites get
      indexed.
-  3. Contact. Deliberately omitted — tonydefazio.com carries the email. Add one here if
-     you'd rather it be visible on the profile itself.
+  3. Contact. Deliberately omitted — tonydefazio.com carries a contact form, and the
+     address deliberately appears nowhere on that page. Putting a literal address here
+     would undo that, so if you want contact on the profile, link the form rather than
+     the address.
   4. The "most of the code is Claude's" line is copied from the per-repo authorship notes
      in colonel_kernel and murderboard. Check you want it at profile level too, where it
      applies to everything rather than to one project.
