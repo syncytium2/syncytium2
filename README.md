@@ -4,9 +4,9 @@ Neuroendocrinology and calcium imaging. I build small, open-source instruments f
 **measuring things in neuroscience data** — and for finding out when the measurement
 doesn't hold.
 
-The three instruments run in the browser — no install, no account, and nothing you load
-is ever uploaded anywhere. The fourth is the review process that keeps the other three
-honest.
+Three of them run in the browser — no install, no account, and nothing you load is ever
+uploaded anywhere. One is a Python package. The last is the review process that keeps the
+others honest.
 
 **→ [tonydefazio.com](https://tonydefazio.com)**
 
@@ -19,7 +19,8 @@ honest.
 | **[Colonel Kernel](https://github.com/syncytium2/colonel_kernel)** | Recovers the shape that links action potentials to a calcium signal, from ground-truth spike times and a measured dF/F₀ trace — and says so when no single shape fits. | [kernel.tonydefazio.com](https://kernel.tonydefazio.com) |
 | **[no_peak](https://github.com/syncytium2/no_peak)** | CLUSTER pulse detection for hormone time series (LH, GnRH, GH). A faithful port of Veldhuis & Johnson, validated point-by-point against both Igor Pro and the original Fortran. | [nopeak.tonydefazio.com](https://nopeak.tonydefazio.com) |
 | **[bugarach](https://github.com/syncytium2/bugarach)** | Finds the moments when many cells fire together — and measures how often you're wrong, on a simulation built from your own recordings. Six coordination detectors lifted out of MATLAB. | [bugarach.tonydefazio.com](https://bugarach.tonydefazio.com) |
-| **[murderboard](https://github.com/syncytium2/murderboard)** | An adversarial review harness for document deliverables: eleven reviewer roles that try to tear a draft apart before it ships. Vendored into the three above. | [murderboard.tonydefazio.com](https://murderboard.tonydefazio.com) |
+| **[draughtsman](https://github.com/syncytium2/draughtsman)** | Turns a PyTorch model into a readable architecture diagram — the tracer supplies the facts, an agent supplies the abstraction, and a coverage check names every operation it dropped rather than quietly omitting it. | [draughtsman.tonydefazio.com](https://draughtsman.tonydefazio.com) |
+| **[murderboard](https://github.com/syncytium2/murderboard)** | An adversarial review harness for document deliverables: eleven reviewer roles that try to tear a draft apart before it ships. Vendored into the three browser instruments above. | [murderboard.tonydefazio.com](https://murderboard.tonydefazio.com) |
 
 ### The through-line
 
