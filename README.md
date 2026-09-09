@@ -1,8 +1,8 @@
 ## Tony DeFazio
 
-Neuroendocrinology and calcium imaging. I build small, open-source instruments for
-**measuring things in neuroscience data** — and for finding out when the measurement
-doesn't hold.
+I build small, open-source instruments for **measuring things in neuroscience data** —
+and for finding out when the measurement doesn't hold. My own field is neuroendocrinology
+and calcium imaging.
 
 Three of them run in the browser — no install, no account, and nothing you load is ever
 uploaded anywhere. One is a Python package. The last is the review process that keeps the
